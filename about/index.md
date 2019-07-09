@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about]
+date: 2019-07-09
 comments: false
 ---
     
-<center> > Yet we will try to reach each other over this small round table. We will string out words like jewels and offer our sentences like necklaces in hopes the other will appreciate their worth; in hopes that we will share a small piece of our ambiguous truths. And that is enough.</center>
+> Yet we will try to reach each other over this small round table. We will string out words like jewels and offer our sentences like necklaces in hopes the other will appreciate their worth; in hopes that we will share a small piece of our ambiguous truths. And that is enough.
 
 ## About
 

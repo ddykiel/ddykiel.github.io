@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "What You Don't Know"
 excerpt: "this story has been told too many times / even if it is you and I who tell it"
 project: false

@@ -22,6 +22,6 @@ They will be your protégée, perhaps your relative, perhaps a distant apprentic
 
 As for now, you stand on the cusp of time. While your fingers grow cold and your eyes grow heavy, you see into the past and into the future; you are cradled by the souls of the statues beside you, and you know that one day, you will become the strand of a spider’s web, to cradle the soul of another.
 
-This piece was printed in the 2018 Issue of [The Marble Collection](https://themarblecollection.org).
+*This piece was printed in the 2018 Issue of [The Marble Collection](https://themarblecollection.org).*
 
-A canvas with an excerpt of this piece is also available for purchase [here](https://society6.com/themarblecollection).
+*A canvas with an excerpt of this piece is also available for purchase [here](https://society6.com/themarblecollection).*

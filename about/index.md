@@ -8,7 +8,7 @@ comments: false
     
 > Yet we will try to reach each other over this small round table. We will string out words like jewels and offer our sentences like necklaces in hopes the other will appreciate their worth; in hopes that we will share a small piece of our ambiguous truths. And that is enough.
 
-[Imgur](https://i.imgur.com/caquXe8.png)
+![circlephoto](https://i.imgur.com/caquXe8.png)
 
 Hi, I’m Daniel. I like to create in many forms.
 

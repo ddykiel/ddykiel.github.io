@@ -8,7 +8,9 @@ comments: false
     
 > Yet we will try to reach each other over this small round table. We will string out words like jewels and offer our sentences like necklaces in hopes the other will appreciate their worth; in hopes that we will share a small piece of our ambiguous truths. And that is enough.
 
-![circlephoto](https://i.imgur.com/caquXe8.png)
+<p class="aligncenter">
+<img src="https://i.imgur.com/caquXe8.png" alt = "Photo of Daniel" style="width:200px;height:200px;">
+</p>
 
 Hi, I’m Daniel. I like to create in many forms.
 

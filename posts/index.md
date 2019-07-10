@@ -1,6 +1,7 @@
 ---
-layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+layout: page
+title: Publications
+tags: [publications]
+date: 2019-07-09
 comments: false
 ---

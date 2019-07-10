@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-tags: [about]
+tags: [publications]
 date: 2019-07-09
 comments: false
 ---
@@ -13,7 +13,7 @@ comments: false
 
 ## Prose
 * [Ambiguous Truths](https://docs.wixstatic.com/ugd/0dde6e_f2b5b4d0753542faa9a1602ea00f6a9d.pdf), published in <i>Polyphony LIT</i>
-* [When You Find Heaven](https://danadykiel.wordpress.com/when-you-find-heaven/), published in <i>The Marble Collection</i>
+* [When You Find Heaven](https://ddykiel.github.io/when-you-find-heaven/), published in <i>The Marble Collection</i>
 
 ## Other
 * [Review for The Magic of Melwick Orchard](https://nerdybookclub.wordpress.com/2018/07/04/the-magic-of-melwick-orchard-by-rebecca-caprara-review-by-dana-dykiel/), published in <i>Nerdy Book Club</i>

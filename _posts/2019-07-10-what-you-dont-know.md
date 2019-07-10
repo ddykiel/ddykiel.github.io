@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "What You Don't Know"
-date:   2019-07-10
 excerpt: "this story has been told too many times / even if it is you and I who tell it"
-project: true
+project: false
 ---
 
 I want to tell you that the subway map
@@ -24,6 +23,7 @@ Reflected over walls of rolling brick. An image,
 
 Disconnected from everyone and everything.
 
+
 I am among those who wonder
 
 If love is salvation or self-destruction:
@@ -34,7 +34,9 @@ or “I’m leaving you”, and if either
 
 Is tantamount to suicide.
 
-\                       \Darling, this story has been told too many times
+
+...............Darling, this story has been told too many times
+
 
 And they had to cut the locks from the couple’s bridge in Paris
 
@@ -55,6 +57,7 @@ As I ride this empty subway car. A part of me
 Cannot help but believe this story will end the same way
 
 
-\                       \Even if it is you and I who tell it.
+...............Even if it is you and I who tell it.
+
 
 *This piece was published by [Polyphony LIT](https://www.polyphonylit.org/) in Volume 14. You can buy a copy [here](https://store.bookbaby.com/book/Polyphony-Lit--Issue-14-%7C-2018).*

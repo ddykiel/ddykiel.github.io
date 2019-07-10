@@ -1,4 +1,12 @@
 # Site navigation links
 
 - title: Publications
-  url: publications/
+  url: /publications/
+ 
+- title: Book Recommendations
+  url: /book-recs/
+ 
+ - title: Reach Out
+  url: /reach-out/
+  
+ 

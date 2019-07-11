@@ -16,11 +16,11 @@ Hi, I’m Daniel. I like to create in many forms.
 
 I’ve been writing creatively since elementary school, and editing since high school. I enjoy all forms of writing, but I’m particularly partial to poetry and novels.
 
-In college, I discovered my interest in Computer Science. Combining this with my interest in English, I've done several projects involving text analysis and text-based video games. I'm most comfortable with Python, Java, and R.
+In college, I discovered my interest in Computer Science. Combining this with English, I've done several projects involving text analysis and text-based video games. I'm most comfortable with Python, Java, and R.
 
 I study at New College of Florida, in Sarasota. During breaks, I can be found in the greater Boston area.
 
-## Miscellaneous
-* [Book recommendations](https://ddykiel.github.io/book-recs/)
-* [Reach out](https://ddykiel.github.io/reach-out/)
-* [More info](https://ddykiel.github.io/additional-about/)
+<h2><center>Miscellaneous<center></h2>
+    <center>[Book recommendations](https://ddykiel.github.io/book-recs/)</center>
+    <center>[Reach out](https://ddykiel.github.io/reach-out/)</center>
+    <center>[More info](https://ddykiel.github.io/additional-about/)</center>

@@ -8,7 +8,7 @@ comments: false
 
 ## Welcome!
 
-This is my "additional about" section.
+This is my "additional about" section, which contains miscellaneous tidbits of information.
 
 ## Top Words
 
@@ -20,30 +20,25 @@ This is my "additional about" section.
 
 ## Top Quotes
 
-> Just go on dancing with me like this forever. We'll scrape our shoes on the stars and hang up-side down from the moon.
+    Become who you are. 
+    - Friedrich Nietzsche, <i>The Gay Science</i>
+    
+    Sin does not touch me because I consume sin.  
+    - The Upanishads
 
-- Stephen King, <i>The Long Walk</i>
+    Just go on dancing with me like this forever. We'll scrape our shoes on the stars and hang up-side down from the moon.  
+    - Stephen King, <i>The Long Walk</i> 
 
-> Sin does not touch me because I consume sin.
-
-- The Upanishads
-
-> Become who you are.
-
-- Friedrich Nietzsche, <i>The Gay Science</i>
-
-> I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine.
-
-- Ayn Rand, <i>Atlas Shrugged</i>
-
-> Forget self and give blood to creation.
-
-- Sylvia Plath, <i>Journals</i>
+    I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine.  
+    - Ayn Rand, <i>Atlas Shrugged</i>  
 
 ## Interesting Links
-TBD
-
+Things on the internet that stuck with me
+* [Albert Camus, "The Myth of Sisyphus"](http://dbanach.com/sisyphus.htm)
+* [The Oatmeal, "How to Be Perfectly Unhappy"](https://theoatmeal.com/comics/unhappy)
+* [Kurt Vonnegut, "Teaching the Unteachable"](https://archive.nytimes.com/www.nytimes.com/books/97/09/28/lifetimes/vonnegut-teaching.html)
+* [This comic by Sarah Andersen](https://sarahcandersen.com/post/170457438301)
 
 ## Additional interests
 
-Meditation, consciousness, running, psychology, philosophy, dance, French, Spanish, cooking, drawing
+Meditation, consciousness, lucid dreaming/dreams, running, psychology, philosophy, existentialism/optimistic nihilism, economics, theater/film/video, dance, French, Spanish, cooking, drawing, universal basic income

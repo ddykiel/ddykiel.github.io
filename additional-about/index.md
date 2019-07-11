@@ -19,21 +19,16 @@ This is my "additional about" section, which contains miscellaneous tidbits of i
 * Ochre
 
 ## Top Quotes
-
-    Become who you are. 
-    - Friedrich Nietzsche, <i>The Gay Science</i>
+> Become who you are.  - Friedrich Nietzsche, <i>The Gay Science</i>
     
-    Sin does not touch me because I consume sin.  
-    - The Upanishads
+> Sin does not touch me because I consume sin.  - The Upanishads
 
-    Just go on dancing with me like this forever. We'll scrape our shoes on the stars and hang up-side down from the moon.  
-    - Stephen King, <i>The Long Walk</i> 
+> Just go on dancing with me like this forever. We'll scrape our shoes on the stars and hang up-side down from the moon.  - Stephen King, <i>The Long Walk</i> 
 
-    I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine.  
-    - Ayn Rand, <i>Atlas Shrugged</i>  
+> I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine.  - Ayn Rand, <i>Atlas Shrugged</i>  
 
 ## Interesting Links
-Things on the internet that stuck with me
+Things on the internet that struck me
 * [Albert Camus, "The Myth of Sisyphus"](http://dbanach.com/sisyphus.htm)
 * [The Oatmeal, "How to Be Perfectly Unhappy"](https://theoatmeal.com/comics/unhappy)
 * [Kurt Vonnegut, "Teaching the Unteachable"](https://archive.nytimes.com/www.nytimes.com/books/97/09/28/lifetimes/vonnegut-teaching.html)
@@ -41,4 +36,4 @@ Things on the internet that stuck with me
 
 ## Additional interests
 
-Meditation, consciousness, lucid dreaming/dreams, running, psychology, philosophy, existentialism/optimistic nihilism, economics, theater/film/video, dance, French, Spanish, cooking, drawing, universal basic income
+Meditation, consciousness, lucid dreaming/dreams, running, psychology, philosophy, existentialism, economics, theater/film/video, French, Spanish, cooking, drawing, universal basic income

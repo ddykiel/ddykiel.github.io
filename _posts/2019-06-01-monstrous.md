@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Monstrous"
-date:   2018-11-08
+date:   2019-06-01
 excerpt: "A text-based video game about the malleability of memory and facing your worst traits"
 project: true
 comments: false

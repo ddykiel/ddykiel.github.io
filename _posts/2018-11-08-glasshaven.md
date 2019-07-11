@@ -28,6 +28,10 @@ The demo includes three playable chapters: the prelude, Chapter 1, and Chapter 2
 * Extract files
 * Inside the now-extracted folder, click on “Main.exe” to open the game
 <hr>
+## Code
+This game was written in Python, using the PyGame library
+Code available upon request
+
 ## Additional Info
 * You can click on Prelude, Chapter 1, or Chapter 2 to play that chapter. I suggest playing them in order.
 * You can replay chapters, but you have to quit out of the game and start it up again to do so.  

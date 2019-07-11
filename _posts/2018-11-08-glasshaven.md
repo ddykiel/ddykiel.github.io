@@ -19,7 +19,7 @@ what happens to those characters–depends on the player’s choices.
 The demo includes three playable chapters: the prelude, Chapter 1, and Chapter 2.  
 
 <i>Content warnings for death, violence, and suicide ideation. This game also includes brief flashes.</i>
-
+<hr>
 ## How to Download
 [Download link](https://www.dropbox.com/s/lkk2vljibraue1j/Glasshaven%20Demo.zip?dl=0)
 * Click “Continue to view” to not log into Dropbox
@@ -27,7 +27,7 @@ The demo includes three playable chapters: the prelude, Chapter 1, and Chapter 2
 * Download zipped folder
 * Extract files
 * Inside the now-extracted folder, click on “Main.exe” to open the game
-
+<hr>
 ## Additional Info
 * You can click on Prelude, Chapter 1, or Chapter 2 to play that chapter. I suggest playing them in order.
 * You can replay chapters, but you have to quit out of the game and start it up again to do so.  

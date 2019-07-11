@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Glasshaven Demo"
-date:   2019-04-12
+date:   2018-11-08
 excerpt: "A fantasy and horror text-based video game demo"
 project: true
 comments: false

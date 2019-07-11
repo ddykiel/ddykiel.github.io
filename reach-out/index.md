@@ -9,7 +9,8 @@ comments: false
 If you...
 * Have comments or critiques about anything on this site
 * Would like to collaborate on creative projects
-* Think we would have interesting things to talk about based on [common interests](https://ddykiel.github.io/additional-about/)  
+* Think we would have interesting things to talk about based on [common interests](https://ddykiel.github.io/additional-about/) 
+
 Feel free to *reach out!* I would love to hear from you.
 
 ## Email (the best way to reach me)

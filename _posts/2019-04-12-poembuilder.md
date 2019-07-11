@@ -21,5 +21,5 @@ This application allows the user to write an interactive poem. You choose each l
 * Inside the now-extracted folder, click on “PoemBuilder.exe” to open
 
 ## Code
-This application was written in Python, using the PyGame library
+This application was written in Python, using the PyGame library  
 [GitHub code](https://github.com/ddykiel/PoemBuilder)

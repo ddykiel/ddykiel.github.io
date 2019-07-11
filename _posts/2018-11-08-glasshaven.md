@@ -7,7 +7,7 @@ project: true
 comments: false
 ---
 <p class="aligncenter">
-<img src="https://i.imgur.com/nzuMLKx.jpg" alt = "Glasshaven Menu Screen" style="width:400px;height:400px;">
+<img src="https://i.imgur.com/nzuMLKx.jpg" alt = "Glasshaven Menu Screen" style="width:300px;height:300px;">
 </p>
 
 ## About the Game

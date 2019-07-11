@@ -41,7 +41,7 @@ Things on the internet that struck me
 
 ## Additional interests
 
-<b>Consciousness</b>: Meditation, lucid dreaming, artificial intelligence, the subconscious, memory, perception/ambiguity   
+<b>Consciousness</b>: Meditation, lucid dreaming, the subconscious, memory, perception/ambiguity   
 <b>Subjects</b>: Psychology, philosophy, economics  
 <b>Hobbies</b>: Running, theater/film/video, cooking, drawing  
 <b>Languages</b>: French, Spanish  

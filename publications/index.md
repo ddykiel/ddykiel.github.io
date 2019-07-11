@@ -24,6 +24,7 @@ comments: false
 * Two silver keys, two honorable mentions, <i>Scholastic Art & Writing Awards</i> 2018
 * Silver key, <i>Scholastic Art & Writing Awards 2017</i>
 * Semi-finalist, the [Helen Creeley Student Poetry Prize](http://www.masspoetry.org/helencreeley)   
+<br>
 <hr>
 Note that I began publishing my writing under my birth name, Dana. For consistency, I decided to keep all my publications under that name, even though I started going by Daniel in college.
 

@@ -15,7 +15,7 @@ Your past has made you into a monster—but what kind of monster will it be?
 
 <figure class="third">
 	<img src="https://i.imgur.com/1BGPwip.png">
-	<img src="https://i.imgur.com/SU9lZF6.png">
+	<img src="https://i.imgur.com/OVFNhIS.png">
 	<img src="https://i.imgur.com/PtxEyJ5.png">
 </figure>
 

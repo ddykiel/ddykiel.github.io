@@ -8,8 +8,7 @@ comments: false
 ---
 > You can’t choose your past, but you choose how to remember it. In Monstrous, you face memories of your worst traits. 
 How you reflect on them will determine who you become in the next chapter of your life. At the end of the game, you
-receive one of four monstrous forms.  
-<br> Your past has made you into a monster—but what kind of monster will it be? (test)
+receive one of four monstrous forms. Your past has made you into a monster—but what kind of monster will it be?
 
 <img src="https://i.imgur.com/DyclTNV.gif" alt="Gif of Monstrous game">
 

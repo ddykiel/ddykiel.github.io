@@ -20,8 +20,8 @@ In the future, a traveler will come. They will come on a hovercraft, humming a q
 
 They will be your protégée, perhaps your relative, perhaps a distant apprentice; they will have learned from you and grown from you, and they, too, will find their peace, their hovercraft falling into disrepair. The next traveler will come from farther in the future, on a vessel too advanced to envision, and the cycle will repeat once again.
 
-As for now, you stand on the cusp of time. While your fingers grow cold and your eyes grow heavy, you see into the past and into the future; you are cradled by the souls of the statues beside you, and you know that one day, you will become the strand of a spider’s web, to cradle the soul of another.
-
+As for now, you stand on the cusp of time. While your fingers grow cold and your eyes grow heavy, you see into the past and into the future; you are cradled by the souls of the statues beside you, and you know that one day, you will become the strand of a spider’s web, to cradle the soul of another.  
+<br>
 
 *This piece was printed in the 2018 Issue of [The Marble Collection](https://themarblecollection.org).*
 

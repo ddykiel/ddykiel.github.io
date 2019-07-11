@@ -2,7 +2,7 @@
 layout: post
 title:  "Poem Builder"
 date:   2019-04-12
-excerpt: "Write an interactive poem (Python/PyGame)"
+excerpt: "Write an interactive poem"
 project: true
 comments: false
 ---
@@ -19,3 +19,7 @@ This application allows the user to write an interactive poem. You choose each l
 * Download zipped folder
 * Extract zipped folder
 * Inside the now-extracted folder, click on “PoemBuilder.exe” to open
+
+## Code
+This application was written in Python, using the PyGame library
+[GitHub code](https://github.com/ddykiel/PoemBuilder)

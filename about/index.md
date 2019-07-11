@@ -20,8 +20,8 @@ In college, I discovered my interest in Computer Science. Combining this with En
 
 I study at New College of Florida, in Sarasota. During breaks, I can be found in the greater Boston area.
 
-<h2><center>Miscellaneous<center></h2>
-    
+<h2><center>Miscellaneous<center></h2>  
+  
 <center><a href="https://ddykiel.github.io/book-recs/">Book Recommendations</a></center>
 <center><a href="https://ddykiel.github.io/reach-out/">Reach Out</a></center>
 <center><a href="https://ddykiel.github.io/additional-about/">More Info</a></center>

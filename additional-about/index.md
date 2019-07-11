@@ -19,19 +19,19 @@ This is my "additional about" section, which contains miscellaneous information.
 * Ochre
 
 ## Top Quotes
-> Become who you are.  
+<i>Become who you are.</i>  
 
 --- Friedrich Nietzsche, <i>The Gay Science</i>
     
-> Sin does not touch me because I consume sin. 
+<i>Sin does not touch me because I consume sin.</i> 
 
 --- The Upanishads
 
-> Just go on dancing with me like this forever. We'll scrape our shoes on the stars and hang up-side down from the moon.  
+<i>Just go on dancing with me like this forever. We'll scrape our shoes on the stars and hang up-side down from the moon.</i>  
 
 --- Stephen King, <i>The Long Walk</i> 
 
-> I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine.   
+<i>I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine.</i>   
 
 --- Ayn Rand, <i>Atlas Shrugged</i>  
 

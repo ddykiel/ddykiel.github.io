@@ -34,6 +34,6 @@ As I ride this empty subway car. A part of me
 Cannot help but believe this story will end the same way  
 
 <span style="color: white">blankspaceblank</span>Even if it is you and I who tell it.  
-<br>
+<hr>
 
 *This piece was published by [Polyphony LIT](https://www.polyphonylit.org/) in Volume 14. You can buy a copy [here](https://store.bookbaby.com/book/Polyphony-Lit--Issue-14-%7C-2018).*

@@ -22,7 +22,7 @@ This is my "additional about" section, which contains miscellaneous information.
 <i>Become who you are.</i>  
 --- Friedrich Nietzsche, <i>The Gay Science</i>
 <hr>  
-<i>Sin does not touch me because I consume sin.</i> 
+<i>Sin does not touch me because I consume sin.</i>  
 --- The Upanishads
 <hr>
 <i>Just go on dancing with me like this forever. We'll scrape our shoes on the stars and hang up-side down from the moon.</i>  

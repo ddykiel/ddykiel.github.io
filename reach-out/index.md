@@ -18,8 +18,8 @@ dana.dykiel18@ncf.edu
 
 ## Other social media links
 * [Medium](https://medium.com/@ddykiel)
-* [Linkedin](https://www.linkedin.com/in/dana-dykiel/)
-* [Github](https://github.com/ddykiel)
+* [LinkedIn](https://www.linkedin.com/in/dana-dykiel/)
+* [GitHub](https://github.com/ddykiel)
 * [Goodreads](https://www.goodreads.com/user/show/18402070-daniel)
 
 ## More on collaborating

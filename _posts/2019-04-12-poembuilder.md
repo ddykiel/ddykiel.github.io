@@ -9,7 +9,7 @@ comments: false
 
 This application allows the user to write an interactive poem. You choose each line of a 12-line poem, which then gets saved in a document. Feel free to edit punctuation, line breaks, word choice (especially words like “us”, “I”, “yours”), etc. to make the poem your own.  
 
-<img src="https://i.imgur.com/mEUN8hQ.gifv" alt="Gif of the PoemBuilder">
+<img src="https://i.imgur.com/mEUN8hQ.gif" alt="Gif of the PoemBuilder">
 
 ## How to Download
 [Download link](https://www.dropbox.com/s/zwzagms814mgyxj/PoemBuilder.zip?dl=0)

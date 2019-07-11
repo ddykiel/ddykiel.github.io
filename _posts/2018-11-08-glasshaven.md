@@ -32,7 +32,8 @@ The demo includes three playable chapters: the prelude, Chapter 1, and Chapter 2
 * You can click on Prelude, Chapter 1, or Chapter 2 to play that chapter. I suggest playing them in order.
 * You can replay chapters, but you have to quit out of the game and start it up again to do so.  
 
-<b>IMPORTANT NOTE: I made this demo as a project for my first-ever programming class. As such, the code has a lot of bugs. 
+<b>IMPORTANT NOTE:</b>  
+<b>I made this demo as a project for my first-ever programming class. As such, the code has a lot of bugs. 
 If you'd like to see a more recent example of my games, check out [Monstrous](https://ddykiel.github.io/monstrous)  </b>
 
 As always, feel free to email me at dana.dykiel18@ncf.edu with comments/suggestions!

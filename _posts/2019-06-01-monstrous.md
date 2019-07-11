@@ -11,7 +11,7 @@ How you reflect on them will determine who you become in the next chapter of you
 receive one of four monstrous forms.  
 Your past has made you into a monster—but what kind of monster will it be?
 
-<img src="https://i.imgur.com/DyclTNV.gifv" alt="Gif of Monstrous game">
+<img src="https://i.imgur.com/DyclTNV.gif" alt="Gif of Monstrous game">
 
 <figure class="third">
 	<img src="https://i.imgur.com/1BGPwip.png">

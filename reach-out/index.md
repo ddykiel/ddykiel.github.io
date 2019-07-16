@@ -23,7 +23,8 @@ dana.dykiel18@ncf.edu
 * [Goodreads](https://www.goodreads.com/user/show/18402070-daniel)
 
 ## More on collaborating
-If you would like to collaborate, please send me an email, telling me what your project is about, and, if possible, including your project in the email. I’ll let you know if it’s something I have the time and/or resources to contribute to.  
+If you would like to collaborate, please send me an email, telling me what your project is about, and, if possible, including your project in the email. I’ll let you know if it’s something I have the time and/or resources to contribute to. 
+<br>
 Specific Areas of Collaboration (though I'm open to others!)
 * <b>Video game creation</b>: I'm most familiar with writing or coding, less so art with art or music
 * <b>Exchanging creative writing</b>: I'm open to exchanging poetry, novel drafts, and short stories

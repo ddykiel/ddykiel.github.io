@@ -42,4 +42,4 @@ I also made a video tutorial on how to use Monstrous' code as a template for you
 <hr>
 Many thanks to Freddie O'Brion and Owen Blaufuss for contributing their art to the game, and to Sonia Joseph and Mira Joseph for their quotes/inspiration.
 
-If you have any feedback on the game, or notice any bugs/opportunities for improvement, feel free to reach out to me at dana.dykiel18@ncf.edu
+If you have any feedback on the game, or notice any bugs/opportunities for improvement, feel free to reach out to me at dykiel.daniel@gmail.com

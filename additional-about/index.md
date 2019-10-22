@@ -25,12 +25,16 @@ This is my "additional about" section, which contains miscellaneous information.
 <i>Sin does not touch me because I consume sin.</i>  
 --- The Upanishads
 <hr>
-<i>Just go on dancing with me like this forever. We'll scrape our shoes on the stars and hang up-side down from the moon.</i>  
---- Stephen King, <i>The Long Walk</i> 
+<i> The desire to be loved is the last illusion. Give it up and you will be free.</i>   
+--- Margaret Atwood, <i>Selected Poems II</i>  
 <hr>
-<i>I swear by my life and my love of it that I will never live for the sake of another man, nor ask another man to live for mine.</i>   
---- Ayn Rand, <i>Atlas Shrugged</i>  
-<hr>
+
+## Top Cooking Ingredients
+
+* Green onions/scallions
+* Mushrooms
+* Goat cheese
+* Brown sugar
 
 ## Interesting Links
 Things on the internet that struck me

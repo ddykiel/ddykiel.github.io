@@ -14,7 +14,7 @@ If you...
 Feel free to *reach out!* I would love to hear from you.
 
 ## Email (the best way to reach me)
-dana.dykiel18@ncf.edu
+dykiel.daniel@gmail.com
 
 ## Other social media links
 * [Medium](https://medium.com/@ddykiel)
@@ -24,6 +24,7 @@ dana.dykiel18@ncf.edu
 
 ## More on collaborating
 If you would like to collaborate, please send me an email, telling me what your project is about, and, if possible, including your project in the email. I’ll let you know if it’s something I have the time and/or resources to contribute to. 
+<br>
 <br>
 Specific Areas of Collaboration (though I'm open to others!)
 * <b>Video game creation</b>: I'm most familiar with writing or coding, less so art with art or music

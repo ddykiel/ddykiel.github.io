@@ -40,4 +40,4 @@ This is an old project, so I don't have the code on my GitHub, but it's availabl
 <b>I made this demo as a project for my first-ever programming class. As such, the code has a lot of bugs. 
 If you'd like to see a more recent example of my games, check out [Monstrous](https://ddykiel.github.io/monstrous)  </b>
 
-As always, feel free to email me at dana.dykiel18@ncf.edu with comments/suggestions!
+As always, feel free to email me at dykiel.daniel@gmail.com with comments/suggestions!

@@ -7,6 +7,9 @@ comments: false
 ---
 
 ## Poetry
+* [Orpheus to His Muse](https://ddykiel.github.io/orpheus-to-his-muse), published in <i>Déraciné Magazine</i>
+* [Icarus, Now Fulfilled](https://ddykiel.github.io/icarus-now-fulfilled/), published in <i>Déraciné Magazine</i>
+* [Bleed, Do Not Blacken](https://ddykiel.github.io/bleed-do-not-blacken/), published in <i>Déraciné Magazine</i>
 * [What You Don't Know](https://ddykiel.github.io/what-you-dont-know), published in <i>Polyphony LIT</i>
 * [Solipsist](https://bluemarblereview.com/solipsist/), published in <i>Blue Marble Review</i>
 * [To My Hometown, from the Window of a Plane](https://kingdomsinthewild.com/w-dykiel-hometown), published in <i>Kingdoms in the Wild</i>
@@ -26,5 +29,5 @@ comments: false
 * Semi-finalist, the [Helen Creeley Student Poetry Prize](http://www.masspoetry.org/helencreeley)   
 <br>
 <hr>
-Note that I began publishing my writing under my birth name, Dana. For consistency, I decided to keep all my publications under that name, even though I started going by Daniel in college.
+Note that I began publishing my writing under my birth name, Dana. Some of my older publications appear under that name.
 

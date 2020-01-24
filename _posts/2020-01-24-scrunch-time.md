@@ -11,10 +11,10 @@ For my 2020 January Independent Study (ISP), I designed and coded a mobile appli
 
 The goals of the ISP were to write code that was clean and easily extendible, to work effectively as a team, and to document our progress. After spending three weeks on the project—the allocated time for an ISP—we created a proof-of-concept that worked for one phone.
 
-This post is written for a relatively non-technical audience. If you're interested in the technical features of the app, check out the "ReadMe" on the GitHub. The "ReadMe" also has notes about limitations of this prototype and ideas for future prototypes.
+This post deals with the general process of creating Scrunch Time, and addresses technical elements as they relate. If you're interested in the technical features of the app, check out the "ReadMe" on the GitHub. The "ReadMe" also has notes about limitations of this prototype and ideas for future prototypes.
 
 ## GitHub
-Link
+[Link]https://github.com/ddykiel/ScrunchTime
 
 ## Concept of the App
 
@@ -50,9 +50,7 @@ With a combination of video tutorials and a textbook, *Head First Android Develo
 
 <Image> Client Design 01/07/2020 Front-End
     
-On the back end, I thought about how we would store data about the user, their roomates, and the user's room.
-
-<Image> Client Design 01/07/2020 Model
+On the back end, I thought about how we would store data about the user, their roomates, and the user's room. I drew this out as well.
     
 My partner was working on servers, which I had no background experience with. During one of our meetings, he outlined the plan he had for his code. After this meeting, I drew out a representation of how his code worked. I wanted to understand it, both out of genuine interest, and to know how I should interact with his code.
 

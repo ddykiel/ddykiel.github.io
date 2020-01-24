@@ -37,9 +37,13 @@ When you first get the app, you add yourself and your roommate to your room. The
 On the app, you can see your scrunchie with your color, and your roommate's scrunchie. The colors are as follows:
 
 Red: Do not disturb
+
 Purple: Knock first
+
 Blue: Neutral
+
 Green: Feeling social
+
 Yellow: Friends in the dorm
 
 You can also add up to two other roommates, for a total of four people in a room.

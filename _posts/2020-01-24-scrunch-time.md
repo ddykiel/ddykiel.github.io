@@ -14,7 +14,7 @@ The goals of the ISP were to write code that was clean and easily extendible, to
 This post deals with the general process of creating Scrunch Time, and addresses technical elements as they relate. If you're interested in the technical features of the app, check out the "ReadMe" on the GitHub. The "ReadMe" also has notes about limitations of this prototype and ideas for future prototypes.
 
 ## GitHub
-[Link]https://github.com/ddykiel/ScrunchTime
+[Link](https://github.com/ddykiel/ScrunchTime)
 
 ## Concept of the App
 
@@ -25,6 +25,12 @@ But the concept for scrunch time goes farther than sexiling your roommates. Comi
 I came up with the initial idea months before ISP started. I kept it on the back burner—a necessary step of any creative process—until January.
 
 ## Proof of Concept
+
+<figure class="third">
+	<img src="https://i.imgur.com/1BGPwip.png">
+	<img src="https://i.imgur.com/o7StkFU.png">
+	<img src="https://i.imgur.com/Mqat8B1.png">
+</figure>
 
 When you first get the app, you add yourself and your roommate to your room. There are five colored buttons, representing five different moods. You click the color you're feeling to communicate that to your roommate.
 
@@ -48,7 +54,7 @@ We recognized this ISP would involve learning and creating—with the goal of de
 
 With a combination of video tutorials and a textbook, *Head First Android Development,* I delved into learning the basics of Android apps. After a week or so, I was ready to get my hands dirty with the first version of the Scrunch Time prototype. As a visual learner, I drew out a general plan of how all the files would work together: which elements from layout files I would have to refer to in code files, and code snippets to do so. 
 
-<Image> Client Design 01/07/2020 Front-End
+<img src="https://i.imgur.com/zLhl0dq.jpg">
     
 On the back end, I thought about how we would store data about the user, their roomates, and the user's room. I drew this out as well.
     
@@ -60,7 +66,10 @@ I made paper mockups of the application early on. After comparing the pros and c
 
 I often had the mockups in front of me when I was coding the app, as it helped the intangible feel more tangible.
 
-<Image> Mockups
+<figure class="second">
+	<img src="https://i.imgur.com/sCYefyJ.jpg">
+	<img src="https://i.imgur.com/A09dQ2z.jpg">
+</figure>
 
 ## Revisiting goals
 

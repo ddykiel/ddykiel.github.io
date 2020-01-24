@@ -27,7 +27,7 @@ I came up with the initial idea months before ISP started. I kept it on the back
 ## Proof of Concept
 
 <figure class="third">
-	<img src="https://i.imgur.com/1BGPwip.png">
+	<img src="https://i.imgur.com/Jb1g4G4.png">
 	<img src="https://i.imgur.com/o7StkFU.png">
 	<img src="https://i.imgur.com/Mqat8B1.png">
 </figure>

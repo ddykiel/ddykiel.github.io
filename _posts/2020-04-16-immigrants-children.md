@@ -26,7 +26,7 @@ in pus-filled beads of color;
 the jewelry we wear for beauty  
 while we bear your native tongue like a choker.  
 We love  
-its certain je ne sais quoi.  
+its certain *je ne sais quoi.*  
 We are to blame  
 for the crumbling clasp and cracks in the stone.  
 

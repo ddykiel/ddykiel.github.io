@@ -7,6 +7,7 @@ comments: false
 ---
 
 ## Poetry
+* [Immigrants' Children](https://ddykiel.github.io/immigrants-children/), published in <i>Shift: A Journal of Literary Oddities</i>
 * [Orpheus to His Muse](https://ddykiel.github.io/orpheus-to-his-muse), published in <i>Déraciné Magazine</i>
 * [Icarus, Now Fulfilled](https://ddykiel.github.io/icarus-now-fulfilled/), published in <i>Déraciné Magazine</i>
 * [Bleed, Do Not Blacken](https://ddykiel.github.io/bleed-do-not-blacken/), published in <i>Déraciné Magazine</i>

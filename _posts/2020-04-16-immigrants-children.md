@@ -38,4 +38,4 @@ There we lick our fingers, our tongues
 rasping with iron and slick with oil.  
 We wave our neon dollars, yelling “God bless America.”  
 
-Reprinted by permission of *Shift: A Journal of Literary Odities,* copywrite 2020 by Daniel Dykiel
+Reprinted by permission of *Shift: A Journal of Literary Odities,* Copywright 2020 by Daniel Dykiel

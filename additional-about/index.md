@@ -12,15 +12,15 @@ This is my "additional about" section, which contains miscellaneous information.
 
 ## Top Words
 
-* Reverberate
 * Vestigial
-* Absolution
-* Sublime
+* Sublimate
+* Blitz
+* Incandescent
 * Ochre
 
 ## Top Quotes
-<i>Become who you are.</i>  
---- Friedrich Nietzsche, <i>The Gay Science</i>
+<i>Forget self and give blood to creation.</i>  
+--- Sylvia Plath, <i>Journals</i>
 <hr>  
 <i>Sin does not touch me because I consume sin.</i>  
 --- The Upanishads
@@ -33,8 +33,9 @@ This is my "additional about" section, which contains miscellaneous information.
 
 * Green onions/scallions
 * Mushrooms
-* Goat cheese
-* Brown sugar
+* Miso paste
+* Eggplant
+* Oranges
 
 ## Interesting Links
 Things on the internet that struck me
@@ -47,6 +48,6 @@ Things on the internet that struck me
 
 <b>Consciousness</b>: Meditation, lucid dreaming, the subconscious, memory, perception/ambiguity   
 <b>Subjects</b>: Psychology, philosophy, economics  
-<b>Hobbies</b>: Running, theater/film/video, cooking, drawing  
+<b>Hobbies</b>: Cooking, running, theater/film/video, visual art
 <b>Languages</b>: French, Spanish  
-<b>Misc</b>: Universal basic income/automation, 1920s mining towns  
+<b>Misc</b>: Universal basic income/automation, 1920s mining towns, gun violence

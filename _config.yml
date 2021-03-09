@@ -5,8 +5,8 @@ bio:                'Generalist specializing in writing & computer science'
 description:        ""
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/red-fence-cropped-far.png'
-background:         'assets/red-fence-cropped.jpg'
+logo:               'assets/red-fence-cropped-again.png'
+background:         'assets/red-fence-cropped-smaller.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://ddykiel.github.io

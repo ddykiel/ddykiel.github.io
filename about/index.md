@@ -14,9 +14,9 @@ comments: false
 
 Hi, I’m Daniel. 
 
-I believe in applying principles of storytelling, creativity, and technology to all areas of my work. Much of what I do exists outside of traditional disciplines. I have experience with technical documentation, video game writing, human-centered design, and interactive digital media.
+I believe in applying principles of storytelling, creativity, and technology to all areas of my work. Much of what I do exists between disciplines. I have experience with technical documentation, video game writing, human-centered design, and interactive digital media.
 
-I study Creative Writing and Computer Science at New College of Florida, in Sarasota. During breaks, I can be found in the greater Boston area.
+I study Creative Writing and Computer Science at New College of Florida, in Sarasota. While not in Florida, I can be found in the greater Boston area.
 
 Lately, I've been thinking about: fractals and fragmentation as a creative lens, how to best foreground compassion, and the collective subconscious.
 
@@ -24,4 +24,3 @@ Lately, I've been thinking about: fractals and fragmentation as a creative lens,
   
 <center><a href="https://ddykiel.github.io/book-recs/">Book Recommendations</a></center>
 <center><a href="https://ddykiel.github.io/reach-out/">Reach Out</a></center>
-<center><a href="https://ddykiel.github.io/additional-about/">More Info</a></center>

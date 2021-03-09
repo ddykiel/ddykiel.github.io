@@ -1,12 +1,12 @@
 remote_theme: TaylanTatli/Moon
 # Site
 title:              Daniel Dykiel
-bio:                'Generalist specializing in writing & computer science'
+bio:                'generalist specializing in writing & computer science'
 description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/circle-cropped-smaller.png'
-background:         'assets/red-fence-cropped-again.jpg'
+background:         'assets/sunny-misty-background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://ddykiel.github.io

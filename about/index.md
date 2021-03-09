@@ -2,7 +2,7 @@
 layout: page
 title: About
 tags: [about]
-date: 2019-07-09
+date: 2021-03-09
 comments: false
 ---
     
@@ -12,13 +12,13 @@ comments: false
 <img src="https://i.imgur.com/caquXe8.png" alt = "Photo of Daniel" style="width:250px;height:250px;">
 </p>
 
-Hi, I’m Daniel. I like to create in many forms.
+Hi, I’m Daniel. 
 
-I’ve been writing creatively since elementary school, and editing since high school. I enjoy all forms of writing, but I’m particularly partial to poetry and novels.
+I believe in applying principles of storytelling, creativity, and technology to all areas of my work. Much of what I do exists outside of traditional disciplines. I have experience with technical documentation, video game writing, human-centered design, and interactive digital media.
 
-In college, I discovered my interest in Computer Science. Combining this with English, I've done several projects involving text analysis and text-based video games. I'm most comfortable with Python, Java, and R.
+I study Creative Writing and Computer Science at New College of Florida, in Sarasota. During breaks, I can be found in the greater Boston area.
 
-I study at New College of Florida, in Sarasota. During breaks, I can be found in the greater Boston area.
+Lately, I've been thinking about: fractals and fragmentation as a creative lens, how to best foreground compassion, and the collective subconscious.
 
 <h2><center>Miscellaneous</center></h2>  
   

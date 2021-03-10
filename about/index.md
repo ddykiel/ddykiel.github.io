@@ -12,7 +12,7 @@ comments: false
 <img src="/assets/phone cropped.jpg" alt = "Photo of Daniel" style="width:600px;">
 </p>
 <br>
-Hi, I’m Daniel!
+Hi, I’m Daniel.
 
 I believe in applying principles of storytelling, creativity, and technology to all areas of my work. Much of what I do exists between disciplines. I have experience with technical documentation, video game writing, human-centered design, and interactive digital media.
 

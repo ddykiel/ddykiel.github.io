@@ -18,6 +18,7 @@ I believe in applying principles of storytelling, creativity, and technology to 
 
 I study Creative Writing and Computer Science at New College of Florida, in Sarasota. While not in Florida, I can be found in the greater Boston area.
 <br>
+
 <h4>Lately, I've been thinking about: fractals and fragmentation as a creative lens, how to best foreground compassion, and the collective subconscious.</h4>
 <br>
 <h2><center>Miscellaneous</center></h2>  

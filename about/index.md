@@ -25,3 +25,4 @@ I study Creative Writing and Computer Science at New College of Florida, in Sara
   
 <center><a href="https://ddykiel.github.io/book-recs/">Book Recommendations</a></center>
 <center><a href="https://ddykiel.github.io/reach-out/">Reach Out</a></center>
+<center><a href="https://ddykiel.github.io/credits/">Credits</a></center>

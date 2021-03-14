@@ -6,12 +6,7 @@ project: false
 comments: false
 ---
 
-If you...
-* Have comments or critiques about anything on this site
-* Would like to collaborate on creative projects
-* Think we would have interesting things to talk about based on [common interests](https://ddykiel.github.io/additional-about/) 
-
-Feel free to reach out! I would love to hear from you.
+If you would like to chat or collaborate creatively, feel free to reach out!
 
 ## Email (the best way to reach me)
 dykiel.daniel@gmail.com

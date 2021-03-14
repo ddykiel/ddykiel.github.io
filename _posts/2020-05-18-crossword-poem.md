@@ -7,12 +7,14 @@ project: true
 comments: false
 ---
 
-I created this website with three other students as part of my Software Engineering class. We designed and implemented the website for Dr. Emily Carr, a professional poet. 
+I created this interactive poetry board with three other students as part of my Software Engineering class. We designed and implemented the website for Dr. Emily Carr, a professional poet. 
 
 ## Website 
 [Click here to experience the website!](https://crosswordpoetry.github.io/)
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v4nLQnCpTjM" frameborder="0"> </iframe>
+
 
 ## Code
 

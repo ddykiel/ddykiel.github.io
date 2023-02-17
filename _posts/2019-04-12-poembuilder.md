@@ -3,7 +3,7 @@ layout: post
 title:  "Poem Builder"
 date:   2019-04-12
 excerpt: "Write an interactive poem"
-project: true
+project: false
 comments: false
 ---
 

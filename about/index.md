@@ -6,7 +6,7 @@ date: 2021-03-09
 comments: false
 ---
 <p class="aligncenter">
-<img src="/assets/sunrunner-3.jpg" alt = "Photo of Daniel" style="width:600px;">
+<img src="/assets/sunrunner-3.jpg" alt = "Photo of Daniel" style="width:400px;">
 </p>
 <br>
 Hi, I’m Daniel.

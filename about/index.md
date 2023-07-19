@@ -11,11 +11,13 @@ comments: false
 <br>
 Hi, I’m Daniel.
 
-I'm a poet and prose writer with a technological background. I create in various styles, often incorporating multimedia, experimental, and interactive digital elements. 
+I love poetry, prose, and all the genres in between. My work often focuses on monstrosities and the subconscious. Currently, I'm an M.F.A. student at the University of South Florida.
 
-I also have experience with technical documentation, publishing tools, and software development. I work remotely as an Associate Tools and Operations Specialist for Pegasystems. In 2022, I graduated from New College of Florida with a degree in Computer Science and Creative Writing. 
+I also have experience with technical documentation, publishing tools, and interactive digital media. I formerly worked as an Associate Tools and Operations Specialist for Pegasystems. I have a Bachelor of Arts in Computer Science and Creative Writing from New College of Florida.
 
-I've fallen in love with two cities: St. Petersburg FL, where I currently live, and Boston MA, near where I grew up. I have a deep interest in Tarot, symbols, and the subconscoius.
+I've fallen in love with two cities: St. Petersburg FL, where I currently live, and Boston MA, near where I grew up. I also have an interest in Tarot, symbols, and the subconscoius.
+
+<b>Lately, I've been thinking about: labyrinths & repetition, crabs & other ocean insects, writing as play</b>
 
 <h2><center>Miscellaneous</center></h2>  
   

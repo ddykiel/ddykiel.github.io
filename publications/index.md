@@ -13,7 +13,7 @@ comments: false
 * [Bleed, Do Not Blacken](https://ddykiel.github.io/bleed-do-not-blacken/), published in <i>Déraciné Magazine</i>
 * [What You Don't Know](https://ddykiel.github.io/what-you-dont-know), published in <i>Polyphony LIT</i>
 * [Solipsist](https://bluemarblereview.com/solipsist/), published in <i>Blue Marble Review</i>
-* [To My Hometown, from the Window of a Plane](https://kingdomsinthewild.com/w-dykiel-hometown), published in <i>Kingdoms in the Wild</i>
+* [To My Hometown, from the Window of a Plane](https://ddykiel.github.io/hometown/), published in <i>Kingdoms in the Wild</i>
 
 ## Prose
 * [Ambiguous Truths](https://docs.wixstatic.com/ugd/0dde6e_f2b5b4d0753542faa9a1602ea00f6a9d.pdf), published in <i>Polyphony LIT</i>
@@ -29,6 +29,4 @@ comments: false
 * Silver key, <i>Scholastic Art & Writing Awards 2017</i>
 * Semi-finalist, the [Helen Creeley Student Poetry Prize](http://www.masspoetry.org/helencreeley)   
 <br>
-<hr>
-Note that I began publishing my writing under my birth name, Dana. Some of my older publications appear under that name.
 

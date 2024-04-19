@@ -7,8 +7,8 @@ comments: false
 ---
 
 ## Poetry
-*fishbowl, published in  [<i>Neptune</i>]([https://ddykiel.github.io/immigrants-children/](https://www.blurb.com/bookstore/invited/10229810/dde501e6de9c36500760aeb56a92d696b0fbc39a)), a local St. Petersburg FL poetry magazine, Spring 2024
-*  [Immigrants' Children](https://ddykiel.github.io/immigrants-children/), published in <i>Shift: A Journal of Literary Oddities</i>
+* fishbowl, published in  [<i>Neptune</i>]([https://ddykiel.github.io/immigrants-children/](https://www.blurb.com/bookstore/invited/10229810/dde501e6de9c36500760aeb56a92d696b0fbc39a)), a local St. Petersburg FL poetry magazine, Spring 2024
+* [Immigrants' Children](https://ddykiel.github.io/immigrants-children/), published in <i>Shift: A Journal of Literary Oddities</i>
 * [Orpheus to His Muse](https://ddykiel.github.io/orpheus-to-his-muse), published in <i>Déraciné Magazine</i>
 * [Icarus, Now Fulfilled](https://ddykiel.github.io/icarus-now-fulfilled/), published in <i>Déraciné Magazine</i>
 * [Bleed, Do Not Blacken](https://ddykiel.github.io/bleed-do-not-blacken/), published in <i>Déraciné Magazine</i>

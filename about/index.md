@@ -11,13 +11,11 @@ comments: false
 <br>
 Hi, I’m Daniel.
 
-I love poetry, prose, and all the genres in between. My work often focuses on monstrosities and the subconscious. Currently, I'm an M.F.A. student at the University of South Florida.
+I love poetry, prose, and all the genres in between. My work often focuses on monstrosities and the subconscious. Currently, I'm pursuing an M.F.A. in Creative Writing at the University of South Florida.
 
 I also have experience with technical documentation, publishing tools, and interactive digital media. I formerly worked as an Associate Tools and Operations Specialist for Pegasystems. I have a Bachelor of Arts in Computer Science and Creative Writing from New College of Florida.
 
-I've fallen in love with two cities: St. Petersburg FL, where I currently live, and Boston MA, near where I grew up. I also have an interest in Tarot, symbols, and the subconscoius.
-
-<b>Lately, I've been thinking about: labyrinths & repetition, crabs & other ocean insects, writing as play</b>
+I've fallen in love with two cities: St. Petersburg FL, where I currently live, and Boston MA, near where I grew up.
 
 <h2><center>Miscellaneous</center></h2>  
   

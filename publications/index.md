@@ -19,15 +19,15 @@ comments: false
 
 ## Prose
 * [An Unspooling of Glass Selvage](https://www.bruisermag.com/dykiel_unspooling), published in <i>BRUISER</i>, Summer 2024
-* [Ambiguous Truths](https://docs.wixstatic.com/ugd/0dde6e_f2b5b4d0753542faa9a1602ea00f6a9d.pdf), published in <i>Polyphony LIT</i>
-* [When You Find Heaven](https://ddykiel.github.io/when-you-find-heaven/), published in <i>The Marble Collection</i>
+* [Ambiguous Truths](https://docs.wixstatic.com/ugd/0dde6e_f2b5b4d0753542faa9a1602ea00f6a9d.pdf), published in <i>Polyphony LIT</i>, 2018
+* [When You Find Heaven](https://ddykiel.github.io/when-you-find-heaven/), published in <i>The Marble Collection</i>, 2018
 
 ## Other
 * [Review for The Magic of Melwick Orchard](https://nerdybookclub.wordpress.com/2018/07/04/the-magic-of-melwick-orchard-by-rebecca-caprara-review-by-dana-dykiel/), published in <i>Nerdy Book Club</i>
 
 ## Readings
-Ekphrastic poetry reading, [What We Keep](https://www.youtube.com/watch?v=pCLJe9Z4BpA) at the University of South Florida, Spring 2024
-Alumni speaker, <i>Words in Action Creative Writing Conference</i> at New College of Florida, Spring 2023
+* Ekphrastic poetry reading, [What We Keep](https://www.youtube.com/watch?v=pCLJe9Z4BpA) at the University of South Florida, Spring 2024  
+* Alumni speaker, <i>Words in Action Creative Writing Conference</i> at New College of Florida, Spring 2023
 
 ## Awards
 * Runner-up, the [Claudia Ann Seaman Award for Creative Nonfiction](https://www.polyphonylit.org/claudia-ann-seaman-awards), 2018

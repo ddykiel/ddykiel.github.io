@@ -6,7 +6,7 @@ excerpt: "Short fiction that flashes"
 project: true
 comments: false
 ---
-<object data="ddykiel.github.io/assets/heat-lightning-zine.pdf" type="application/pdf" width="100%">
-    <embed src="ddykiel.github.io/assets/heat-lightning-zine.pdf">
-</object>
+Zine created for Dr. Heather Seller's 2023 Micro Forms class
+
+<embed src="sample.pdf" type="application/pdf" width="700px"/>
 

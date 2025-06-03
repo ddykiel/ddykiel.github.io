@@ -9,8 +9,8 @@ comments: false
 All my publications are free to read on my [<i>Substack!</i>](https://fracturescope.substack.com/)! 
 
 ## Poetry
-* My friend tells me he keeps dreaming of sea monsters, tiny spoon Issue 13: Superstition/Divination
-* Portrait of a Drowned Girl, Sixteen, <i>NECKSNAP Magazine</i>, [Issue 1](https://necksnapmag.com/issues/issue-one/)
+* My friend tells me he keeps dreaming of sea monsters, <i>tiny spoon</i> Issue 13: Superstition/Divination
+* Portrait of a Drowned Girl, Sixteen, <i>NECKSNAP Magazine</i> [Issue 1](https://necksnapmag.com/issues/issue-one/)
 * Ode to making my life just a little bit easier, <i>Neptune Magazine</i>, Winter 2025
 * You know what I mean when I say, <i>Neptune Magazine</i>, Winter 2025
 * This Place Isn't My Home Anymore, <i>the engine)idling</i> [Issue 4: Haunts and Hometowns](https://static1.squarespace.com/static/650c36a813b4245c413e0276/t/6724c4224b6da543428ebdee/1730462755551/the+engine%28idling+-+Issue+4+-+Haunts+%26+Hometowns.pdf), Fall 2024
@@ -26,7 +26,7 @@ All my publications are free to read on my [<i>Substack!</i>](https://fracturesc
 * To My Hometown, from the Window of a Plane, <i>Kingdoms in the Wild</i>, Winter 2018
 
 ## Prose
-* Bloody Emory,<i>Midsummer Dream House</i> Issue 3: Halloween, Fall 2024
+* Bloody Emory, <i>Midsummer Dream House</i> Issue 3: Halloween, Fall 2024
 * [An Unspooling of Glass Selvage](https://www.bruisermag.com/dykiel_unspooling), <i>BRUISER</i>, Summer 2024
 * Ambiguous Truths, <i>Polyphony LIT</i>, 2018
 * When You Find Heaven, <i>The Marble Collection</i>, 2018

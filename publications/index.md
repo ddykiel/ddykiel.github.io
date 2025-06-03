@@ -6,7 +6,7 @@ date: 2019-07-09
 comments: false
 ---
 
-All my publications are free to read on my [<i>Substack!</i>](https://fracturescope.substack.com/)! 
+All my publications are free to read on my [<i>Substack!</i>](https://fracturescope.substack.com/)
 
 ## Poetry
 * My friend tells me he keeps dreaming of sea monsters, <i>tiny spoon</i> Issue 13: Superstition/Divination

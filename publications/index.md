@@ -9,23 +9,25 @@ comments: false
 All my publications are free to read on my [<i>Substack!</i>](https://fracturescope.substack.com/)! 
 
 ## Poetry
+* My friend tells me he keeps dreaming of sea monsters, tiny spoon Issue 13: Superstition/Divination
+* Portrait of a Drowned Girl, Sixteen, <i>NECKSNAP Magazine</i>, [Issue 1](https://necksnapmag.com/issues/issue-one/)
 * Ode to making my life just a little bit easier, <i>Neptune Magazine</i>, Winter 2025
 * You know what I mean when I say, <i>Neptune Magazine</i>, Winter 2025
-* This Place Isn't My Home Anymore, [<i>the engine)idling</i> Issue 4: Haunts and Hometowns](https://static1.squarespace.com/static/650c36a813b4245c413e0276/t/6724c4224b6da543428ebdee/1730462755551/the+engine%28idling+-+Issue+4+-+Haunts+%26+Hometowns.pdf), Fall 2024
-* [Dog Motif](https://www.muzzlemagazine.com/daniel-dykiel.html), <i>MUZZLE MAGAZNE</i> Issue 35, Fall 2024
+* This Place Isn't My Home Anymore, <i>the engine)idling</i> [Issue 4: Haunts and Hometowns](https://static1.squarespace.com/static/650c36a813b4245c413e0276/t/6724c4224b6da543428ebdee/1730462755551/the+engine%28idling+-+Issue+4+-+Haunts+%26+Hometowns.pdf), Fall 2024
+* [Dog Motif](https://www.muzzlemagazine.com/daniel-dykiel.html), <i>MUZZLE MAGAZINE</i> Issue 35, Fall 2024
 * maybe don't, new words {press}, Fall 2024
 * fishbowl, <i>Neptune Magazine</i>, Spring 2024
 * Immigrants' Children, <i>Shift: A Journal of Literary Oddities</i>, Spring 2020
-* Orpheus to His Muse, <i>Déraciné Magazine</i>, Summer 2019
-* Icarus, Now Fulfilled, <i>Déraciné Magazine</i>, Summer 2019
-* Bleed, Do Not Blacken, <i>Déraciné Magazine</i>, Summer 2019
+* Orpheus to His Muse, <i>Déraciné Magazine</i> Volume V
+* Icarus, Now Fulfilled, <i>Déraciné Magazine</i> Volume V
+* Bleed, Do Not Blacken, <i>Déraciné Magazine</i> Volume V
 * What You Don't Know, <i>Polyphony LIT</i> Vol 14, Fall 2018
 * Solipsist, <i>Blue Marble Review</i>, Spring 2018
 * To My Hometown, from the Window of a Plane, <i>Kingdoms in the Wild</i>, Winter 2018
 
 ## Prose
-* Bloody Emory,<i>Midsummer Dream House</i>] Issue 3: Halloween, Fall 2024
-* [An Unspooling of Glass Selvage](https://www.bruisermag.com/dykiel_unspooling),<i>BRUISER</i>, Summer 2024
+* Bloody Emory,<i>Midsummer Dream House</i> Issue 3: Halloween, Fall 2024
+* [An Unspooling of Glass Selvage](https://www.bruisermag.com/dykiel_unspooling), <i>BRUISER</i>, Summer 2024
 * Ambiguous Truths, <i>Polyphony LIT</i>, 2018
 * When You Find Heaven, <i>The Marble Collection</i>, 2018
 

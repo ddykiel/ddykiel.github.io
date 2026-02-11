@@ -50,8 +50,8 @@ All my publications are free to read on my [<i>Substack!</i>](https://fracturesc
 ## Awards
 * Nominee for the short story category, AWP Intro Journal Awards by the University of South Florida, 2025, results pending
 * Runner-up, the [Claudia Ann Seaman Award for Creative Nonfiction](https://www.polyphonylit.org/claudia-ann-seaman-awards), 2018
-* [Acton Coffee House Annual Poetry Contest](https://www.actoncoffeehouse.com/poetry), 2018
-* Two silver keys, two honorable mentions, <i>Scholastic Art & Writing Awards</i> 2018, Silver key, <i>Scholastic Art & Writing Awards 2017</i>
+* Acton Coffee House Annual Poetry Contest, 2018
+* Two silver keys, two honorable mentions, <i>Scholastic Art & Writing Awards</i> 2018; Silver key, <i>Scholastic Art & Writing Awards 2017</i>
 * Semi-finalist, the [Helen Creeley Student Poetry Prize](http://www.masspoetry.org/helencreeley)   
 <br>
 
